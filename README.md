@@ -8,10 +8,11 @@ Hello everyone. In this time i bring you to a little project. Is a simple range 
 - Responsive
 - Mobile First
 - JS
+- NPM
 
 
 ## Demo
-If you want to see the demo of this proyect deployed, you can visit [Range](https://idev-nucleus-hmtl-css.netlify.app/)
+If you want to see the demo of this proyect deployed, you can visit [Range](https://idev-rangeprice-sass-bootstrap.netlify.app)
 
 ## Preview
 #
